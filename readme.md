@@ -1,4 +1,4 @@
-we are going to record some git commands here.
+we are going to record some git commands here. and so on.
 
 紧急工作加塞
 
